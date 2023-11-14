@@ -5,17 +5,40 @@ Unlocking Java: Start to understand the fundamentals of coding
 
 ### Introduction
 
-Java is widely used by programmers for building various applications and systems.
+Java is widely used by programmers for building various applications and systems. 
+We are going to explore the basics of coding in Java. Let's take a closer look!
 
-### Section 1: Java Fundamentals:
+### Section 1: Setting up the environment to start developing.
 
-### 1.1 Declaring Variables:
-A variable is like a reserved space for the information you want to store.
-Variables hold things (like numbers or words) so your computer program can use and change them whenever needed.
-It's similar to having a labeled box where you can store and update information as your program runs.
-We need to specify the type of information we want to hold in that container. 
+You can even use just paper for writing Java code. But today we have tools that can combine multiple abilities like writing code,
+checking for errors, and running your program. This is a toolbox called an Integrated Development Environment (IDE).
+Instead of using separate programs, an IDE combines everything.
+Think of an IDE as a helpful assistant that makes the process of writing and managing code more convenient and efficient,
+even if you're just getting started or not a coding expert. Thankfully we have choices. You can download one of the popular Java IDEs such as Eclipse,
+IntelliJ IDEA, or NetBeans from their official websites. You can also explore other IDEs, these are just the most popular ones. 
+Once downloaded, follow the installation steps provided by the IDE. After installing both the IDE and JDK,
+configure the IDE to recognize the JDK installation. Now, you're ready to start coding and developing Java applications in your chosen IDE.
+---IMAGE 1---
+It is essential to download JDK (Java Development Kit) #wikipedia_link# to create, compile, and run our Java programs.
+You can access/download it from the official Oracle website. https://www.oracle.com/java/technologies/downloads/#java21
+Once we ensure that we have the JDK and preferred IDE installed on our system, we're able to code and run our first Java program.
 
 ### Explain the concept of a variable.
+
+A variable is like a reserved space where you can store and update information (things like numbers or words) as your program runs.
+Well, what type of information are we planning to store? 
+We need to specify the type of information we want to hold in that container. We 'declare' them.
+How to declare and use variables in Java programs?
+The general form of declaration:
+
+
+### 1.1 Declaring Variables:
+
+How to declare and use variables in Java programs?
+In Java, you declare a variable by specifying its data type, followed by the variable name.
+
+General declaration:
+
 
 ### Demonstrate how to declare variables in Java.
 
